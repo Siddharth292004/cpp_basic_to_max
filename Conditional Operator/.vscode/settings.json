@@ -1,0 +1,17 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "C_Cpp.default.compilerPath": "C:/MinGW/bin/g++.exe",
+    "files.associations": {
+        "*.html": "html",
+        "stdio.h": "c",
+        "ostream": "cpp"
+    },
+    "cSpell.words": [
+        "Abramov",
+        "EDCBA",
+        "kmph",
+        "miph",
+        "Siddharth",
+        "volsp"
+    ]
+}
